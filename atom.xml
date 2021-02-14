@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yeshengyulei.github.io</id>
+    <title>野生鱼雷</title>
+    <updated>2021-02-14T09:55:55.094Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yeshengyulei.github.io"/>
+    <link rel="self" href="https://yeshengyulei.github.io/atom.xml"/>
+    <logo>https://yeshengyulei.github.io/images/avatar.png</logo>
+    <icon>https://yeshengyulei.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 野生鱼雷</rights>
+</feed>
